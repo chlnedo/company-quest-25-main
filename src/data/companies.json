@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Google India",
+    "industry": "Technology",
+    "location": "Bengaluru",
+    "employees": 15000,
+    "founded": 2004,
+    "description": "Indian arm of Google Inc., search, cloud, AI services"
+  },
+  {
+    "id": 2,
+    "name": "Zomato",
+    "industry": "Food & Beverage / Tech",
+    "location": "Gurugram",
+    "employees": 5000,
+    "founded": 2008,
+    "description": "Online food ordering and delivery"
+  },
+  {
+    "id": 3,
+    "name": "Swiggy",
+    "industry": "Food & Beverage / Tech",
+    "location": "Bengaluru",
+    "employees": 8000,
+    "founded": 2014,
+    "description": "On-demand food delivery and logistics platform"
+  },
+  {
+    "id": 4,
+    "name": "Paytm",
+    "industry": "Fintech",
+    "location": "Noida",
+    "employees": 6000,
+    "founded": 2010,
+    "description": "Digital payments and financial services"
+  },
+  {
+    "id": 5,
+    "name": "Flipkart",
+    "industry": "E-commerce",
+    "location": "Bengaluru",
+    "employees": 30000,
+    "founded": 2007,
+    "description": "Online retail marketplace"
+  },
+  {
+    "id": 6,
+    "name": "PhonePe",
+    "industry": "Fintech",
+    "location": "Bengaluru",
+    "employees": 2000,
+    "founded": 2015,
+    "description": "Digital payments, UPI, financial services"
+  },
+  {
+    "id": 7,
+    "name": "Ola",
+    "industry": "Mobility / Tech",
+    "location": "Bengaluru",
+    "employees": 5000,
+    "founded": 2010,
+    "description": "Ride-hailing and mobility solutions"
+  },
+  {
+    "id": 8,
+    "name": "OYO Rooms",
+    "industry": "Hospitality / Tech",
+    "location": "Gurgaon",
+    "employees": 10000,
+    "founded": 2013,
+    "description": "Budget hotels & room aggregation platform"
+  },
+  {
+    "id": 9,
+    "name": "BigBasket",
+    "industry": "E-commerce / Grocery",
+    "location": "Bengaluru",
+    "employees": 4000,
+    "founded": 2011,
+    "description": "Online grocery delivery"
+  },
+  {
+    "id": 10,
+    "name": "Nykaa",
+    "industry": "Beauty / E-commerce",
+    "location": "Mumbai",
+    "employees": 2500,
+    "founded": 2012,
+    "description": "Beauty and wellness e-commerce"
+  },
+  {
+    "id": 11,
+    "name": "Dream11",
+    "industry": "Entertainment / Gaming",
+    "location": "Mumbai",
+    "employees": 1200,
+    "founded": 2008,
+    "description": "Fantasy sports platform"
+  },
+  {
+    "id": 12,
+    "name": "BYJU'S",
+    "industry": "Edtech",
+    "location": "Bengaluru",
+    "employees": 8000,
+    "founded": 2015,
+    "description": "Online learning & education platform"
+  },
+  {
+    "id": 13,
+    "name": "Unacademy",
+    "industry": "Edtech",
+    "location": "Bengaluru",
+    "employees": 2000,
+    "founded": 2015,
+    "description": "Online learning platform"
+  },
+  {
+    "id": 14,
+    "name": "Freshworks India",
+    "industry": "SaaS",
+    "location": "Chennai",
+    "employees": 3000,
+    "founded": 2010,
+    "description": "Software as a Service products (CRM, support tools)"
+  },
+  {
+    "id": 15,
+    "name": "Zoho Corporation",
+    "industry": "SaaS / Software",
+    "location": "Chennai",
+    "employees": 9000,
+    "founded": 1996,
+    "description": "Business software, CRM, productivity suite"
+  },
+  {
+    "id": 16,
+    "name": "CRED",
+    "industry": "Fintech",
+    "location": "Bengaluru",
+    "employees": 1000,
+    "founded": 2018,
+    "description": "Credit card payments, rewards & financial services"
+  },
+  {
+    "id": 17,
+    "name": "Razorpay",
+    "industry": "Fintech",
+    "location": "Bengaluru",
+    "employees": 1500,
+    "founded": 2014,
+    "description": "Payment gateway & financial infrastructure"
+  },
+  {
+    "id": 18,
+    "name": "Delhivery",
+    "industry": "Logistics / Tech",
+    "location": "Gurugram",
+    "employees": 8000,
+    "founded": 2011,
+    "description": "Logistics, supply chain & delivery services"
+  },
+  {
+    "id": 19,
+    "name": "PolicyBazaar",
+    "industry": "Insurtech",
+    "location": "Gurugram",
+    "employees": 2500,
+    "founded": 2008,
+    "description": "Insurance marketplace & comparison platform"
+  },
+  {
+    "id": 20,
+    "name": "Urban Company",
+    "industry": "Service Marketplace",
+    "location": "Gurugram",
+    "employees": 3000,
+    "founded": 2014,
+    "description": "Home services platform (beauty, cleaning, repair etc.)"
+  },
+  {
+    "id": 21,
+    "name": "Udaan",
+    "industry": "B2B E-commerce",
+    "location": "Bengaluru",
+    "employees": 2000,
+    "founded": 2016,
+    "description": "Wholesale B2B marketplace"
+  },
+  {
+    "id": 22,
+    "name": "Swiggy Instamart",
+    "industry": "Grocery / Delivery",
+    "location": "Bengaluru",
+    "employees": 1000,
+    "founded": 2020,
+    "description": "Instant grocery delivery arm of Swiggy"
+  },
+  {
+    "id": 23,
+    "name": "Meesho",
+    "industry": "Social Commerce",
+    "location": "Bengaluru",
+    "employees": 1500,
+    "founded": 2015,
+    "description": "Social e-commerce platform"
+  },
+  {
+    "id": 24,
+    "name": "ShareChat",
+    "industry": "Social Media / Tech",
+    "location": "Bengaluru",
+    "employees": 1200,
+    "founded": 2015,
+    "description": "Indian social media platform"
+  },
+  {
+    "id": 25,
+    "name": "PhonePe Wealth",
+    "industry": "Fintech / WealthTech",
+    "location": "Bengaluru",
+    "employees": 500,
+    "founded": 2019,
+    "description": "Investment & wealth management"
+  },
+  {
+    "id": 26,
+    "name": "Myntra",
+    "industry": "Fashion / E-commerce",
+    "location": "Bengaluru",
+    "employees": 3000,
+    "founded": 2007,
+    "description": "Online fashion marketplace"
+  },
+  {
+    "id": 27,
+    "name": "Flipkart Wholesale",
+    "industry": "B2B / E-commerce",
+    "location": "Delhi",
+    "employees": 2000,
+    "founded": 2020,
+    "description": "Wholesale & kirana supply chain arm"
+  },
+  {
+    "id": 28,
+    "name": "Zerodha",
+    "industry": "Fintech / Brokerage",
+    "location": "Bengaluru",
+    "employees": 1000,
+    "founded": 2010,
+    "description": "Stock brokerage & trading platform"
+  },
+  {
+    "id": 29,
+    "name": "Groww",
+    "industry": "Fintech / Investment",
+    "location": "Bengaluru",
+    "employees": 800,
+    "founded": 2016,
+    "description": "Investment & mutual funds platform"
+  },
+  {
+    "id": 30,
+    "name": "Lenskart",
+    "industry": "Optical / E-commerce",
+    "location": "Delhi",
+    "employees": 2500,
+    "founded": 2010,
+    "description": "Eyewear & optical e-commerce"
+  },
+  {
+    "id": 31,
+    "name": "Dream Sports",
+    "industry": "Sports / Tech",
+    "location": "Mumbai",
+    "employees": 1200,
+    "founded": 2019,
+    "description": "Sports technology & fantasy gaming"
+  },
+  {
+    "id": 32,
+    "name": "Ixigo",
+    "industry": "Travel / Tech",
+    "location": "Gurugram",
+    "employees": 1000,
+    "founded": 2007,
+    "description": "Travel search & booking platform"
+  },
+  {
+    "id": 33,
+    "name": "EaseMyTrip",
+    "industry": "Travel / Tech",
+    "location": "Gurgaon",
+    "employees": 800,
+    "founded": 2008,
+    "description": "Online travel agency"
+  },
+  {
+    "id": 34,
+    "name": "Couchsurfing India",
+    "industry": "Travel / Community",
+    "location": "Delhi",
+    "employees": 200,
+    "founded": 2014,
+    "description": "Hospitality / community travel platform"
+  },
+  {
+    "id": 35,
+    "name": "InMobi",
+    "industry": "AdTech",
+    "location": "Bengaluru",
+    "employees": 1200,
+  "founded": 2007,
+    "description": "Mobile advertising & marketing platform"
+  },
+  {
+    "id": 36,
+    "name": "BrowserStack",
+    "industry": "SaaS / Dev Tools",
+    "location": "Mumbai",
+    "employees": 1000,
+    "founded": 2011,
+    "description": "Web and mobile app testing platform"
+  },
+  {
+    "id": 37,
+    "name": "Unicommerce",
+    "industry": "Logistics / SaaS",
+    "location": "Mumbai",
+    "employees": 600,
+    "founded": 2012,
+    "description": "E-commerce operations & SaaS for supply chain"
+  },
+  {
+    "id": 38,
+    "name": "Capillary Technologies",
+    "industry": "SaaS / Martech",
+    "location": "Bengaluru",
+    "employees": 800,
+    "founded": 2008,
+    "description": "Customer engagement & loyalty SaaS"
+  },
+  {
+    "id": 39,
+    "name": "Infra.Market",
+    "industry": "Construction / Marketplace",
+    "location": "Mumbai",
+    "employees": 500,
+    "founded": 2016,
+    "description": "B2B marketplace for construction materials"
+  },
+  {
+    "id": 40,
+    "name": "Rivigo",
+    "industry": "Logistics / Tech",
+    "location": "Gurugram",
+    "employees": 2000,
+    "founded": 2014,
+    "description": "Logistics & supply chain with tech & automation"
+  }
+]
